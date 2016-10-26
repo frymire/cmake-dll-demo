@@ -1,7 +1,7 @@
 CMakeDLLDemo
 ==========================
 
-CMake example inspired by [this](http://cognitivewaves.wordpress.com/cmake-and-visual-studio/) tutorial for Visual Studio.
+This project is proof that I can use CMake to build a DLL and an executable for it. It is inspired by [this](http://cognitivewaves.wordpress.com/cmake-and-visual-studio/) tutorial for Visual Studio.
 
 ### Installation
 
