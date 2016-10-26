@@ -5,7 +5,7 @@ This project is proof that I can use CMake to build a DLL and an executable for 
 
 ### Installation
 
-Create a build directory and call cmake from the command line, indicating where the CMakeLists.txt file is:
+Create a build directory and call cmake from there on the command line, indicating where the CMakeLists.txt file is:
 
 	CMakeTest\build> cmake ../src -G "Visual Studio 14 2015 Win64"
 
